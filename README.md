@@ -2,7 +2,7 @@
 국민대학교 소프트웨어학부 소프트웨어프로젝트2 AD 프로젝트  
   
 - 프로젝트 명 : Block Breaker
-- 팀 명 : USC-2 조
+- 팀 명 : UTF-2 조
 
 ## Block Breaker
 python으로 제작한 벽돌 깨기 게임이다.
